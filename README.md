@@ -1,4 +1,5 @@
 🏥 Medical Data Analysis Project
+
 📘 Overview
 
 This project explores medical data to uncover insights about patient demographics, admissions, diagnoses, and doctor performance using SQL and Power BI.
@@ -24,6 +25,7 @@ Top Cities: Certain cities in province ‘NS’ had the highest patient count.
 
 
 🧠 Tools & Techniques Used
+
 Category	Tools / Methods
 Database	MySQL
 Querying	SQL (SELECT, JOIN, GROUP BY, HAVING, UNION, UPDATE)
@@ -31,7 +33,9 @@ Visualization	Power BI
 Data Cleaning	Null handling, string pattern matching, derived columns
 Analysis Techniques	Aggregations, Conditional Logic, City/Province-level grouping
 Version Control	Git & GitHub
+
 🗂️ Project Structure
+
 medical-data-analysis/
 │
 ├── sql/
@@ -51,7 +55,6 @@ Clone or Download Repository
 
 git clone https://github.com/VarshiniS07/medical-data-history.git
 cd medical-data-history
-
 
 Run SQL Queries
 
